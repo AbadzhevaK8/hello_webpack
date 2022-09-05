@@ -1,0 +1,1 @@
+{"version":3,"file":"index.317c755020dc302aa2ff.js","mappings":";;;;;AAAA;AACA;AACA;AACA,8B","sources":["webpack://learn_wp/./src/index.js"],"sourcesContent":[" const multiply = (a, b) => a * b;\n \n console.log(multiply(3, 4));\n console.log(multiply(7, 13));"],"names":[],"sourceRoot":""}
